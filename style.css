@@ -2,7 +2,7 @@ body {
     text-align: center;
     margin: 0px;
     padding-top: 800px;
-    
+
 }
 
 .pic {
@@ -85,7 +85,7 @@ p {
 
 .list {
     float: left;
-    color:coral;
+    color: coral;
     padding-bottom: 5px;
     padding-top: 5px;
     padding-left: 9px;
@@ -97,4 +97,17 @@ p {
 .list:hover {
     background-color: dodgerblue;
 
+}
+
+a {
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.article:hover {
+    color: fuchsia;
+}
+
+html {
+    scroll-behavior: smooth;
 }
